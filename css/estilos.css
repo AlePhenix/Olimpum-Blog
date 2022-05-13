@@ -34,6 +34,15 @@ h1 {
     color: rgb(175, 175, 175);
 }
 
+.iniciarSecion {
+    margin: 40px;
+    padding: 10px 15px;
+    color: rgb(175, 175, 175);
+    border: 1px solid aquamarine;
+    border-radius: 2px;
+    background-color: transparent;
+
+}
 .sectionHome{
     width: 100%;
     height: auto;
@@ -67,3 +76,16 @@ h1 {
     background-color: #00000022;
     transition: 0.5s;
 }
+
+footer{
+    background-color: #faebd7 ;
+    color: #000;
+    margin-top: 30px;
+}
+
+footer div {
+    display: inline-block;
+    padding: 30px 40px;
+    text-align: auto;
+}
+
