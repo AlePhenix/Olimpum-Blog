@@ -84,8 +84,11 @@ footer{
 }
 
 footer div {
-    display: inline-block;
+    display: flex;
     padding: 30px 40px;
     text-align: auto;
 }
 
+footer div p {
+    flex: 1 1 auto;
+}
